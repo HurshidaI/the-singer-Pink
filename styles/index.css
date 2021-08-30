@@ -1,0 +1,41 @@
+h1 {
+    color: pink;
+    font-size: 60px;
+    font-weight: 700;
+    font-style: oblique 2deg;
+    text-align: center;
+    background-color: rgb(124, 74, 124);
+}
+p {
+    color: blue;
+}
+.intro, .career, .publicimg {
+    color:rgb(128, 111, 111);
+}
+body {
+  background-image: url(../images/singer2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+    height: 200vh;
+    
+}
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color:red;
+    border-left :5px solid purple;
+    border-right: 5px solid purple;
+    border-radius: 50%;
+    box-shadow: 10px 10px 20px pink;
+    width: 200px;
+    height: 200px;
+}
+.disco {
+    font-size: large;
+    font-style: italic;
+    font-weight: 600;
+    
+    
+}
